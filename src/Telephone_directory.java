@@ -27,6 +27,7 @@ public class Telephone_directory {
         telefoneDirectory.put("Коньяков А. В.", "+79181522546");
 
         System.out.println(telefoneDirectory.values());
+        System.out.println(telefoneDirectory);
 
 
     }
