@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Telephone_directory {
+public class TelephoneDirectory {
     public static void main(String[] args) {
 
         HashMap<String, String> telefoneDirectory = new HashMap<>();
